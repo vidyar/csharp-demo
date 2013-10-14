@@ -1,4 +1,4 @@
-csharp:
+rvm:
   - dotNet40
 build_environment: win2012
 before_install: nant build test coverage -f:.\NUnitSample\NUnitSample.Tests\default.build
