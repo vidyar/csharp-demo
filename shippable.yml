@@ -5,4 +5,4 @@ before_install: nant build test coverage -f:.\NUnitSample\NUnitSample.Tests\defa
 language: csharp
 notifications:
   email:
-    - vidya@shippable.yml
+    - vidya@shippable.com
